@@ -3,7 +3,7 @@
 **Freelance Full Stack Developer**<br>
 Kabankalan City, Philippines · BS Information Technology, University of St. La Salle (2025)
 
-I build billing and operations software that replaces paper and spreadsheets for local businesses, plus fast-loading websites that bring them customers. Available for freelance projects.
+I build fast, reliable websites and web apps, from landing pages to full-stack systems. Available for freelance projects.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ja--magbanua.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://ja-magbanua.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joshantonmagbanua-0A66C2?style=flat)](https://www.linkedin.com/in/joshantonmagbanua)
