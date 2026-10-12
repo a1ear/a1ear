@@ -1,17 +1,12 @@
 # Hi, I'm Joshua 👋
 
-**Full Stack Developer · CFO & Co-founder at NightPatch Dev**<br>
+**Freelance Full Stack Developer**<br>
 Kabankalan City, Philippines · BS Information Technology, University of St. La Salle (2025)
 
-I build billing and operations software that replaces paper and spreadsheets for local businesses, plus fast-loading websites that bring them customers. Open to junior developer roles and freelance commissions.
+I build billing and operations software that replaces paper and spreadsheets for local businesses, plus fast-loading websites that bring them customers. Available for freelance projects.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ja--magbanua.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://ja-magbanua.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joshantonmagbanua-0A66C2?style=flat)](https://www.linkedin.com/in/joshantonmagbanua)
-
-## 🔭 Currently
-
-- 🏢 Co-founder & CFO at **NightPatch Dev**, a software development agency
-- 🧾 Building billing and operations systems for local businesses, like a billing and fleet ledger for a hauling company
 
 ## 🛠️ Tech Stack
 
@@ -50,4 +45,4 @@ I build billing and operations software that replaces paper and spreadsheets for
 
 ## 📫 Reach me
 
-Find my work and contact details at **[ja-magbanua.vercel.app](https://ja-magbanua.vercel.app)**, or message me on **[LinkedIn](https://www.linkedin.com/in/joshantonmagbanua)**.
+Have a project in mind? See my work and contact details at **[ja-magbanua.vercel.app](https://ja-magbanua.vercel.app)**, or message me on **[LinkedIn](https://www.linkedin.com/in/joshantonmagbanua)**.
