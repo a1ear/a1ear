@@ -1,6 +1,6 @@
 # Hi, I'm Joshua 👋
 
-**Full Stack Developer · CFO & Co-founder at NightPatch Dev**
+**Full Stack Developer · CFO & Co-founder at NightPatch Dev**<br>
 Kabankalan City, Philippines · BS Information Technology, University of St. La Salle (2025)
 
 I build billing and operations software that replaces paper and spreadsheets for local businesses, plus fast-loading websites that bring them customers. Open to junior developer roles and freelance commissions.
