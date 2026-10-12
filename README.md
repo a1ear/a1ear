@@ -33,16 +33,6 @@ I build billing and operations software that replaces paper and spreadsheets for
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-## 🚀 Featured Projects
-
-| Project | What it is | Built with | Links |
-|---|---|---|---|
-| **Berna JSM Blog** | Personal blog and lightweight CMS for an author: essays, journal entries, quotes and newsletter downloads, all published from a private admin area | Next.js, TypeScript, Tailwind CSS, Supabase, Prisma, Tiptap | [Live](https://bernajsm-blog.vercel.app) · [Code](https://github.com/a1ear/Bernajsm-blog) |
-| **Queen Clean** | Mobile-first website for a cleaning company in Bacolod City. Service requests are validated and rate-limited on the server, then saved to a Google Sheet through Make.com | Next.js, TypeScript | [Live](https://queen-cleaning-services.vercel.app) · [Code](https://github.com/a1ear/Queen-Cleaning-Services) |
-| **Arches Dental Clinic** | Website for a dental clinic | React, Vite, Tailwind CSS | [Live](https://arches-dental-clinic.vercel.app) · [Code](https://github.com/a1ear/Arches-Dental-Clinic) |
-| **Butz Pharma** | Company website for a pharmaceutical distribution and medical supply business | React, TypeScript, Vite, Tailwind CSS | [Live](https://butz-pharmacy.vercel.app) · [Code](https://github.com/a1ear/Butz-Pharmacy) |
-| **Kape Al Vista** | Website for a restaurant serving burgers, coffee and Thai food | React, TypeScript, Vite, Tailwind CSS, shadcn/ui | [Live](https://punta-roj-39-6111.vercel.app) · [Code](https://github.com/a1ear/Punta-Roj-39) |
-
 ## 📫 Reach me
 
 Have a project in mind? See my work and contact details at **[ja-magbanua.vercel.app](https://ja-magbanua.vercel.app)**, or message me on **[LinkedIn](https://www.linkedin.com/in/joshantonmagbanua)**.
